@@ -1,0 +1,27 @@
+.main-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.pharm-pill{
+    display: flex;
+    justify-content: space-around;
+}
+
+.gray{
+    background-color: rgb(210, 204, 204);
+    padding: 2vw;
+    width: 40vw;
+    
+}
+.button-container{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    align-items: center;
+    margin: auto;
+}
+td,th{
+    padding: 1vw;
+    text-align: center;
+}
